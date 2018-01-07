@@ -1,0 +1,106 @@
+.home a{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-decoration-line:none;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+header{
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+body{
+    background-color: #ffe2ce;
+}
+.textvideo{
+    position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 5%;
+}
+.nowords a{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-decoration-line:none;
+    margin-left: 40%;
+    margin-top: 20%;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.storyboard a{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-decoration-line:none;
+    margin-left: 40%;
+    margin-bottom: -20%;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px; 
+}
+
+.cafevideo a{
+     font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-decoration-line:none;
+    margin-left: 37%;
+    margin-bottom: -20%;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px; 
+}
+
+@media only screen and (min-width:1000px){
+    header{
+        font-size: 4em;
+    }
+    .textvideo{
+        font-size: 25px;
+    }
+    .nowords a{
+        font-size: 20px;
+        text-align: center;
+        margin-left: 45%;
+        margin-top: 40%;
+    }
+    .storyboard a{
+        font-size: 20px;
+        text-align: center;
+        margin-left: 45%;
+        margin-top: 40%;
+    }
+    .cafevideo a{
+        font-size: 20px;
+        text-align: center;
+        margin-left: 44%;
+        margin-top: 50%;
+    }
+    .textvideo{
+        width: 450px;
+        margin-left: 33%;
+    }
+    header{
+        margin-top: 5%;
+    }
+}

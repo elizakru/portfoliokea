@@ -1,0 +1,109 @@
+header{
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+body{
+    background-color: #ffe2ce;
+}
+.home a{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-decoration-line:none;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+.aboutpic{
+    align-content: center;
+    position: absolute;
+    width: 60%;
+    margin-left: 25%;
+}
+
+.ek{
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 70%;
+    margin-bottom: 0%;
+}
+.aboutinfo{
+     position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.education{
+    position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+.schools{
+     position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.experiences{
+     position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+.exp{
+     position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.contact{
+    position: relative;
+    font-family: 'Cormorant Garamond' , serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+
+.insta{
+    width: 7%;
+}
+
+.fb{
+    width: 7%;
+}
+@media only screen and (min-width:1000px){
+    
+    .aboutpic{
+        width: 40%;
+        align-content: center;
+        margin-left: 32%;
+    }
+    .ek{
+        margin-top: 40%;
+    }
+    .insta{
+        width: 2%;
+    }
+    .fb{
+        width: 2%;
+    }
+}

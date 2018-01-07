@@ -1,0 +1,309 @@
+.header{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3em;
+    text-align: center;
+}
+@media only screen and (min-width: 1000px){
+    .header{
+        font-size: 4em;
+    }
+}
+
+.home a{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-decoration-line:none;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+body{
+    background-color: #ffe2ce;
+}
+
+.halo{
+    width: 60%;
+    align-content: center;
+    margin-left: 18%;
+    position: absolute;
+    }
+.uxtext1{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 65%;
+    text-align: center;
+    width: 350px;
+    
+}
+
+.canvas a{
+    position: relative;
+    float:inherit;
+    display: block;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 5%;
+    margin-bottom: -50px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.report a {
+     position: relative;
+    float:inherit;
+    display: block;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 15%;
+    margin-bottom: -50px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.designdoc a {
+     position: relative;
+    float:inherit;
+    display: block;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 15%;
+    margin-bottom: -50px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.uximg{
+    width: 70%;
+    align-content: center;
+    margin-left: 15%;
+    margin-top: 20%;
+    position: absolute;
+    
+}
+.uxtextapp{
+   font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 75%;
+    text-align: center;
+    width: 350px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.app a{
+    position: relative;
+    float:inherit;
+    display: block;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 10%;
+    margin-bottom: -50px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.website a{
+    position: relative;
+    float:inherit;
+    display: block;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 15%;
+    margin-bottom: -50px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.uxtextpresentation{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 20%;
+    text-align: center;
+    width: 350px;
+}
+
+.presentation a{
+    position: relative;
+    float:inherit;
+    display: block;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 5%;
+    margin-bottom: -50px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+@media only screen and (min-width: 1000px){
+    .halo{
+        width: 40%;
+        align-content: center;
+        margin-left: 30%;
+        
+    }
+    
+    .uxtext1{
+        width: 500px;
+        float: left;
+        margin-left: 15%;
+        margin-top: 38%;
+    }
+    
+    .canvas a{
+    position: relative;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    float: right;
+    text-align: center;
+    margin-right: 25%;
+    margin-top: 38%;
+    margin-bottom: -50px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+}
+    .report a{
+        position: relative;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    float: right;
+    margin-right: 30%;
+    margin-top: 5%;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    }
+    
+    .designdoc a{
+    position: relative;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    float: right;
+    margin-right: 25%;
+    margin-top: 5%;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    }
+    
+    .uximg{
+        align-content: center;
+        margin-top: 60%;
+        margin-right: 30%;
+        margin-left: -30%;
+        width: 60%;
+        position: absolute;
+    }
+    
+    .uxtextapp{
+        margin-left: 15%;
+        margin-top: 85%;
+        position: relative;
+        background-color: #ffe2ce;
+        opacity: 70%;
+    }
+    
+    .app a{
+     position: relative;
+    float: left;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    }
+    
+    .website a{
+        position: relative;
+    float: left;
+    margin-left: -14%;
+    margin-top: 10%;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    }
+    
+    .uxtextpresentation{
+        margin-left: 20%;
+        margin-top: 20%;
+        position: relative;
+        
+    }
+    .presentation a{
+        position: relative;
+    float: right;
+    margin-right: 30%;
+    margin-top: -5%;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    }
+}
+
